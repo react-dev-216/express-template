@@ -1,9 +1,5 @@
-melvyn-node-starter
+node-starter
 ---------------------
-
-# NOTE
-
-This is a clone version with no documentations added. Please be advised there are many changes made from the original repo at [melvyn-node-starter](https://github.com/melvynkim/melvyn-node-starter)
 
 # ABOUT
 
@@ -77,7 +73,7 @@ Follow steps to execute this boilerplate.
 1. Clone this boilerplate
 
 ```bash
-$ git clone --depth 1 https://github.com/melvynkim/melvyn-node-starter.git <PROJECT_NAME>
+$ git clone --depth 1 https://github.com/react-dev-216/node-starter-template.git <PROJECT_NAME>
 $ cd <PROJECT_NAME>
 ```
 
